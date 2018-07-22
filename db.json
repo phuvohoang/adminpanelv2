@@ -1,0 +1,146 @@
+{
+	"category": [{
+			"id": 1,
+			"name": "Áo thun nữ",
+			"description": "Áo thun thời trang cho nữ",
+			"photo":"https://vn-test-11.slatic.net/original/37d1b520f9c26b537f2b6f22d3a46d2b.jpg"
+		},
+		{
+			"id": 2,
+			"name": "Áo thun nam",
+			"description": "Áo thun thời trang cho nam"
+		},
+		{
+			"id": 3,
+			"name": "Điện thoại di động",
+			"description": "Các mẫu điện thoại mới nhất"
+		},
+		{
+			"id": 4,
+			"name": "Mỹ phẩm & Chăm sóc da",
+			"description": "Mang lại vẻ đẹp toàn diện"
+		},
+		{
+			"id": 5,
+			"name": "Đồng hồ thời trang",
+			"description": "Hàng ngàn mẫu đồng hồ độc đáo"
+		}
+	],
+	"users": [{
+			"id": "1",
+			"name": "Võ Hoàng Phú",
+			"username": "phu.vohoang",
+			"email": "kinos_fiolis@hotmail.com",
+			"password": "abc321",
+			"avatar": "https://i.imgur.com/bJ9IuSs.jpg"
+		},
+		{
+			"id": "2",
+			"name":"Bùi Khắc Bình",
+			"username": "binh.buikhac",
+			"email":"binh.buikhac@gmail.com",
+			"password": "abc321",
+			"avatar": "https://i.imgur.com/Hm8XIAQ.jpg"
+		}
+	],
+	"product": [{
+			"id": "1",
+			"name": "Áo thun sọc 7 sắc cầu vồng",
+			"vendorid": "1",
+			"categoryid": "1",
+			"price": "44000vnd",
+			"image": "https://vn-test-11.slatic.net/original/37d1b520f9c26b537f2b6f22d3a46d2b.jpg"
+		},
+		{
+			"id": "2",
+			"name": "Áo thun gấu tay dài",
+			"vendorid": "2",
+			"categoryid": "1",
+			"price": "59000vnd",
+			"image": "https://vn-test-11.slatic.net/original/6a21cc5da569415583c9d37f0276c95a.jpg"
+		},
+		{
+			"id": "3",
+			"name": "Áo thun nam form rộng hàn quốc vải dày min ATND70",
+			"vendorid": "2",
+			"categoryid": "2",
+			"price": "49000vnd",
+			"image": "https://vn-test-11.slatic.net/original/09afbe544fb8fd2d508c098460b6c013.jpg"
+		},
+		{
+			"id": "4",
+			"name": "Áo thun nam form rộng hàn quốc vải dày min ATND70",
+			"vendorid": "3",
+			"categoryid": "2",
+			"price": "60000vnd",
+			"image": "https://vn-test-11.slatic.net/p/7/ao-thun-nam-in-hinh-google-phong-cach-han-quoc-vai-day-min-aoknam414-2525-17047124-28df809f1d6d307875c54969945b221b-catalog.jpg"
+		},
+		{
+			"id": "5",
+			"name": "iPhone 7 Plus 128GB Black",
+			"vendorid": "4",
+			"categoryid": "3",
+			"price": "18900000vnd",
+			"image": "https://vn-test-11.slatic.net/p/2/apple-iphone-7-plus-128gb-jet-black-0177-13184812-c96e101050c3581cb86f5fe02ab62341.jpg"
+		},
+		{
+			"id": "6",
+			"name": "Samsung Galaxy J7 Prime 32GB",
+			"vendorid": "4",
+			"categoryid": "3",
+			"price": "5490000vnd",
+			"image": "https://vn-test-11.slatic.net/original/6c2a6973f485376d3d6039716a096408.jpg"
+		},
+		{
+			"id": "7",
+			"name": "Son dưỡng làm hồng môi Yves Rocher",
+			"vendorid": "5",
+			"categoryid": "4",
+			"price": "180000vnd",
+			"image": "https://vn-test-11.slatic.net/original/5cd87d931e16f087dd01c2136162c0bf.jpg"
+		},
+		{
+			"id": "8",
+			"name": "Combo bông tán kem nền cao cấp + miếng bọt biển rửa mặt trang điểm ( bông trang điểm cao cấp)",
+			"vendorid": "6",
+			"categoryid": "4",
+			"price": "20000vnd",
+			"image": "https://vn-test-11.slatic.net/original/50739cd42480af20ddccc0e4684c3cea.jpg"
+		},
+		{
+			"id": "9",
+			"name": "Đồng hồ nam Orlando OLDT013 dây thép không gỉ",
+			"vendorid": "6",
+			"categoryid": "5",
+			"price": "195200vnd",
+			"image": "https://vn-test-11.slatic.net/original/a42286de0994f5d96f95b380f024dc9d.jpg"
+		},
+		{
+			"id": "10",
+			"name": "Đồng hồ nam dây silicon thể thao 245 (Đen phối đỏ)",
+			"vendorid": "6",
+			"categoryid": "5",
+			"price": "210000vnd",
+			"image": "https://vn-test-11.slatic.net/p/8/dong-ho-nam-day-silicon-the-thao-245-den-phoi-do-9508-23090661-77bff25f1a36ea7d340e55bcc688a93a-catalog.jpg"
+		}
+	],
+	"order": [{
+			"productid": "1",
+			"orderdate": "22-07-2018",
+			"adresse": "Võ Hoàng Phú,A14-10,685 Âu Cơ,Q.Tân Bình,TP.HCM",
+			"shipping": "Vận Chuyển Tiết Kiệm"
+		},
+		{
+			"productid": "2",
+			"orderdate": "16-07-2018",
+			"adresse": "Võ Hoàng Phương,46 Bùi Thị Xuân,Q.1,TP.HCM",
+			"shipping": "Vận Chuyển Tiết Kiệm"
+		},
+		{
+			"productid": "3",
+			"orderdate": "22-07-2018",
+			"adresse": "Vĩnh Thu Nguyệt,204 Trần Phú,Q.Hải Châu,TP.Đà Nẵng",
+			"shipping": "Vận Chuyển Nhanh"
+		}
+	]
+}
